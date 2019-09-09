@@ -1,0 +1,302 @@
+    1  s.ouhachi
+    2  git config--global user.email s.ouhachi@htcompass.fr
+    3  s.ouhachi@htcompass.fr
+    4  git config --global user.name "Soraya OUAHCHI"
+    5  $ git config --global user.name "Soraya OUAHCHI"
+    6  git mkadir Aplo-14
+    7  git mkdir apolo-14
+    8  mkdir apolo-14
+    9  cd apolo-14/
+   10  git init
+   11  ls
+   12  ls-l
+   13  ls -l
+   14  ls -a
+   15  cd ..
+   16  cd apolo-14/
+   17  git status 
+   18  cd /c/Dev_souhachi/Git/apolo-14 ggggiesgggiirnrndjsk
+   19  clear 
+   20  git status
+   21  git add script-insert-data.sql 
+   22  git status 
+   23  git commit 
+   24  git log
+   25  git commit -m "add script insert data"
+   26  git log 
+   27  git distant ajouter origine https://github.com/souhachi0309/apolo14.git
+   28  git distant ajouter origine https://github.com/souhachi0309/apolo14.git
+   29  git remote add origin https://github.com/souhachi0309/apolo14.git
+   30  git push -u origin master
+   31  git commit m-" commit to GitHup"
+   32  git commit m- " commit to GitHup"
+   33  git commit 
+   34  git push 
+   35  mkdir nazaspec
+   36  cd nazaspec/
+   37  cd ..
+   38  git commit -m "Nex doc"
+   39  cd nazaspec/
+   40  git commit -m "Nex doc"
+   41  git delet nazaspec 
+   42  reset nazaspec 
+   43  clear
+   44  history > cmd.log
+   45  ls -l
+   46  vi cmd.log 
+   47  s.ouhachi
+   48  git config --global user email s.ouhachi@htcompass.fr
+   49  git config --global user.email s.ouhachi@htcompass.fr
+   50  cd apolo14
+   51  cd apolo-14
+   52  clear 
+   53  git config --global user.name "Soraya OUHACHI"
+   54  cd c
+   55  cd apolo-14
+   56  ls 
+   57  ls -l 
+   58  ls -a
+   59  git log 
+   60  git push 
+   61  cd nazaspec
+   62  git push 
+   63  cd cmd.log
+   64  cd cmd.log
+   65  status 
+   66  git status 
+   67  git add nazaspec 
+   68  git add nazaspec/cmd.log
+   69  git status 
+   70  git restore --staged nazaspec/cdm.log 
+   71  git restore --staged cdm.log 
+   72  git restore --staged nazaspec/cmd.log 
+   73  git commit 
+   74  git commit 
+   75  git commit -m "historical commands"
+   76  git add nazaspec/cmd.log
+   77  git status 
+   78  add commit 
+   79  git add commit 
+   80  git commit 
+   81  git log 
+   82   git distant ajouter origine https://github.com/souhachi0309/apolo14.git
+   83   31  git remote add origin https://github.com/souhachi0309/apolo14.git
+   84  git remote add origin https://github.com/souhachi0309/apolo14.git
+   85   git push -u origin master
+   86  git push 
+   87  cd nazaspec/
+   88   git colne 
+   89  git push 
+   90  cd cmd.log 
+   91  git clone 
+   92  cd ..
+   93  git brach --list
+   94  git branch --list
+   95  git pull 
+   96  cd nazaspec/
+   97  git push 
+   98  git branch jira-143
+   99  git branch --list
+  100  git chechout 
+  101  git checkout jira-143  
+  102  git branch 
+  103  git branch qi-181
+  104  git checkout master 
+  105  git branch --list
+  106  git checkout qi-181 
+  107  touch traitment.sup
+  108  git add traitment.sup -m "Do 
+  109  wq
+  110  :wq
+  111  /w
+  112  $$$
+  113  clear 
+  114  >><>
+  115  git status
+  116  git add nazaspec/tritement.sup
+  117  git add nazaspec/traitement.sup
+  118  git add nazaspec/traitment.sup
+  119  git commit nazaspec/traitment.sup -m "Data treatement"
+  120  git log 
+  121  git push 
+  122  git status 
+  123  git add nazaspec/cmd.log 
+  124  git branche master 
+  125  git branch master 
+  126  git branch apolo-14
+  127  git status 
+  128  git branch 
+  129  git branch master 
+  130  git checkout master 
+  131  git commit 
+  132  git commit -m "organised work"
+  133  git checkout master 
+  134  cd nazaspec/
+  135  git commit -m "organised work"
+  136  git add traitment.sup 
+  137  git commit -m "organised work"
+  138  git checkout master 
+  139  git status 
+  140  git log 
+  141  ls 
+  142  ls -l 
+  143  cd..
+  144  cd 
+  145  cd apolo-14
+  146  cd Desktop/s.ouhachi/Dev_souhachi/Git/apolo-14
+  147  ls
+  148  cd nazaspec/
+  149  ls
+  150  git push 
+  151  git pull 
+  152  git log 
+  153  git branch 
+  154  vi .cmd.log.swp 
+  155  clear 
+  156  git branch 
+  157  git branch aolo-14
+  158  git branch-143
+  159  git branch -d apolo-14
+  160  git branch -d qi-181
+  161  git branch -D qi-181 
+  162  git branch -D jira-143
+  163  git branch 
+  164  git branch -D aolo-14
+  165  git branch -D apolo-14
+  166  git branch 
+  167  ls
+  168  cd 
+  169  cd s.ouhachi/Dev_souhachi/Git/apolo-14/
+  170  cd s.ouhachi/Dev_souhachi/Git/apolo-14
+  171  git log
+  172  vi script-insert-data.sql 
+  173  git branch jira-1 
+  174  git checkout jira-1 
+  175  touch treat.sup 
+  176  vi treat.sup 
+  177  git log 
+  178  git status 
+  179  git add nazaspec/.cmd.log.swp
+  180  git status 
+  181  git add treat.sup 
+  182  git status 
+  183  ls
+  184  ls -l 
+  185  ls -a
+  186  vi treat.sup 
+  187  status 
+  188  git status 
+  189  git add treat.sup 
+  190  git status 
+  191  git commit -m "New instruction for data"
+  192  git checkout master 
+  193  git log 
+  194  git checkout jira-1 
+  195  git merge master 
+  196  git checkout master 
+  197  git push 
+  198  git log 
+  199  git checkout jira-1 
+  200  git push 
+  201  git push
+  202  git checkout master 
+  203  git status 
+  204  git pull
+  205  git push
+  206  ls
+  207  git merge jira-1 
+  208  ls
+  209  git status
+  210  git push
+  211  git merge jira-1 
+  212  git push
+  213  ls 
+  214  git checkout jira-1 
+  215  git push
+  216    git push --set-upstream origin jira-1
+  217  git checkout master 
+  218  git history 
+  219  history 
+  220  touch cmd-history
+  221  vi cmd-history 
+  222  git status 
+  223  git log --graph 
+  224  git add cmd-history 
+  225  git commit -m "historical command"
+  226  git push 
+  227  history 
+  228  git pull 
+  229  touch fichierasupprimer 
+  230  git rm fichierasupprimer 
+  231  git rmg --cached nom_du_fichier
+  232  git rm --cached nom_du_fichier
+  233  git rm --cached fichierasupprimer
+  234  git rm --cached fichierasupprimer 
+  235  git rmg --cached fichierasupprimer 
+  236  git status
+  237  git add fichierasupprimer 
+  238  git rmg --cached fichierasupprimer 
+  239  git rm --cached fichierasupprimer 
+  240  git status 
+  241  git rm fichierasupprimer 
+  242  git add fichierasupprimer 
+  243  git rm fichierasupprimer 
+  244  git rm --cached fichierasupprimer 
+  245  git push 
+  246  git rm fichierasupprimer 
+  247  git add fichierasupprimer 
+  248  git rm fichierasupprimer 
+  249  git rm -f fichierasupprimer 
+  250  git status 
+  251  vi treat.sup 
+  252  git status 
+  253  git add treat.sup 
+  254  git commit -m "Git introduction" 
+  255  git push 
+  256  clear 
+  257  cd 
+  258  cd Desktop/s.ouhachi/Dev_souhachi/Git
+  259  cd ..
+  260  git branch
+  261  ls
+  262  cd Git/
+  263  git branch
+  264  cd ..
+  265  cd ..
+  266  cd ..
+  267  cd Desktop/s.ouhachi/Dev_souhachi/Git
+  268  cd s.ouhachi/Dev_souhachi/Git
+  269  mkdir clone 
+  270  cd colne 
+  271  cd colne/
+  272  cd clone 
+  273  git clone https://github.com/souhachi0309/effective-java-examples.git
+  274  git status 
+  275  git init 
+  276  git status 
+  277  git add effective-java-examples/
+  278  git status 
+  279  cd effective-java-examples/
+  280  git status 
+  281  git branch 
+  282  git checkout experimental 
+  283  git checkout master 
+  284  git branch 
+  285  git log 
+  286  touch fichier.exp 
+  287  vi touch 
+  288  git status 
+  289  git add .*
+  290  s.ouhachi
+  291  git add fichier.exp 
+  292  git commit -m "new file"
+  293  git push 
+  294  git rm -f touch 
+  295  git add touch 
+  296  git rm -f touch 
+  297  git status 
+  298  vi git.ignore
+  299  git status 
+  300  vi gitignore
+  301  vi .gitignore
+  302  history > history2
